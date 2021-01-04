@@ -6,7 +6,7 @@ main:
     url: https://mmistakes.github.io/minimal-mistakes/about/
   - title: "Moje projekty"
    url: /year-archive/
-  title: "Umiejętności"
+  - title: "Umiejętności"
    url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
