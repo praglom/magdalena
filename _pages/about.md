@@ -19,12 +19,14 @@ stwierdzić, że testowałam zarówno eksploracyjnie, jak również pisałam nie
 testowe, aby uwzględnić w swoich testach np. różne systemy rozliczeń sklepów i pokryć
 przypadkami testowymi wszystkie warunki logiczne.
 
+{: .text-justify}
 Do moich zadań należało również uczestniczenie w spotkaniach scrumowych (od standupów po
 review), więc ten model wytwarzania oprogramowania nie jest mi obcy. Znajomość języka SQL
 była wykorzystywana przeze mnie w codziennej pracy, ale nie ukrywam, że jest to podstawowa
 znajomość, która umożliwiała mi wyciąganie potrzebnych mi na co dzień do pracy danych, a nie
 poziom analityka danych.
 
+{: .text-justify}
 W połowie listopada ukończyłam kurs Testera manualnego w szkole Coders Lab, która cieszy się
 bardzo dobrymi opiniami w branży. Podczas warsztatów miałam okazję poznać takie narzędzia
 jak Postman czy SoupUI, a także nauczyć się pisania planu testów, przypadków testowych oraz
@@ -36,6 +38,7 @@ podstawowym stopniu znajomość narzędza Selenium IDE oraz Webdriver. Docelowo 
 się w obszarze automatyzacji testów, ale na poczzątku chciałabym nabrać doświadczenia w
 testowaniu manualnym.
 
+{: .text-justify}
 Moim zdaniem, mimo braku doświadczenia na stanowisku testera oprogramowania, moje
 dotychczasowe doświadczenia zawodowe wpływają pozytywnie na moją kandydaturę. Nie mam
 wątpliwości, że szybko nauczę się wszystkiego co potrzeba, aby stać się świetnym testerem. W
@@ -46,5 +49,6 @@ być może czasami przesadne dążenie do perfekcji we wszystkim co robię, co m
 powinno przydać się w zawodzie testera. Jestem przekonana, że stanę się wartościowym
 członkiem zespołu.
 
+{: .text-justify}
 Mam nadzieję, że będę mogła spotkać się z Państwem osobiście, aby szerzej opowiedzieć o
 swoim doświadczeniu, wiedzy i umiejętnościach, a także odpowiedzieć na Państwa py
