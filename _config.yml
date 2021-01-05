@@ -16,11 +16,11 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "en-PL"
-title                    : "Testowanko" #"Magdalena Pragło - O mnie"
+title                    : "Bugdalena" #"Magdalena Pragło - O mnie"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Magdalena Pragłowska"
-description              : "Strona, na której znajdziesz informacje o moich umiejętnościach."
+description              : "Strona, na której znajdziesz informacje o moich umiejętnościach w zakresie testowania oprogramowania."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "/praglom.github.io" # the subpath of your site, e.g. "/blog"
 repository               : "praglom/praglom.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -95,7 +95,7 @@ analytics:
 author:
   name             : "Magdalena Pragłowska"
   avatar           : "https://avatars1.githubusercontent.com/u/76219603?s=460&u=7be9e64cd9112ddc34357877aa8152f5054ce6f8&v=4"
-  bio              : "Adeptka testowania, absolwentka szkoły Coders Lab"
+  bio              : "Adeptka testowania oprogramowania, absolwentka szkoły Coders Lab"
   location         : "Wrocław"
   email            :
   links:
