@@ -1,7 +1,7 @@
 ---
 layout: single
 title: O mnie
-permalink: /o-mnie/
+permalink: /about/
 ---
 
 Obecnie jestem na etapie zmieniania swoich kwalifikacji zawodowych. Chciałabym powrócić do
