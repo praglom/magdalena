@@ -12,5 +12,7 @@ Kursy, zakresy itp
 #### cztery
 
 {: font-size: 0.6875em}
- pięc
- sześć
+ pięc 45555
+ 
+ {: font-size: type-size-7}
+ sześć szescs szczedxassa
