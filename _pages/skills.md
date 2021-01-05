@@ -14,5 +14,5 @@ Kursy, zakresy itp
 {: font-size: 0.6875em}
  pięc 45555
  
- {: font-size: type-size-7}
+ {: font-size: 0.5em}
  sześć szescs szczedxassa
