@@ -3,10 +3,10 @@ main:
   - title: "Quick-Start Guide"
     url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   - title: "O mnie"
-    url: /o-mnie/
+    url: /about/
   - title: "Moje projekty"
-    url: /year-archive/
+    url: /projects/
   - title: "Umiejętności"
-    url: /collection-archive/
+    url: /skills/
   # - title: "Sitemap"
   #   url: /sitemap/
