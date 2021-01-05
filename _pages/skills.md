@@ -10,5 +10,7 @@ Kursy, zakresy itp
 ## dwa
 ### trzy
 #### cztery
-##### pięc
-###### sześć
+
+{: font-size: 0.6875em}
+ pięc
+ sześć
