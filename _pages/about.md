@@ -4,6 +4,7 @@ title: O mnie
 permalink: /about/
 ---
 
+{: .text-justify}
 Obecnie jestem na etapie zmieniania swoich kwalifikacji zawodowych. Chciałabym powrócić do
 dziedziny, w której się wykształciłem i rozwijać się zawodowo w branży IT. Wybrałam ścieżkę
 Testera oprogramowania, ponieważ jest to tematyka, z którą miałam do czynienia podczas swojej
