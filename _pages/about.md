@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 {: .text-justify}
-Obecnie jestem na etapie zmieniania swoich kwalifikacji zawodowych. Chciałabym powrócić do
+###### Obecnie jestem na etapie zmieniania swoich kwalifikacji zawodowych. Chciałabym powrócić do
 dziedziny, w której się wykształciłem i rozwijać się zawodowo w branży IT. Wybrałam ścieżkę
 Testera oprogramowania, ponieważ jest to tematyka, z którą miałam do czynienia podczas swojej
 wieloletniej pracy w firmie Ceneo.pl. Pracowałam po stronie biznesowej, ale każdorazowo
@@ -19,13 +19,13 @@ stwierdzić, że testowałam zarówno eksploracyjnie, jak również pisałam nie
 testowe, aby uwzględnić w swoich testach np. różne systemy rozliczeń sklepów i pokryć
 przypadkami testowymi wszystkie warunki logiczne.
 
-Do moich zadań należało również uczestniczenie w spotkaniach scrumowych (od standupów po
+###### Do moich zadań należało również uczestniczenie w spotkaniach scrumowych (od standupów po
 review), więc ten model wytwarzania oprogramowania nie jest mi obcy. Znajomość języka SQL
 była wykorzystywana przeze mnie w codziennej pracy, ale nie ukrywam, że jest to podstawowa
 znajomość, która umożliwiała mi wyciąganie potrzebnych mi na co dzień do pracy danych, a nie
 poziom analityka danych.
 
-W połowie listopada ukończyłam kurs Testera manualnego w szkole Coders Lab, która cieszy się
+###### W połowie listopada ukończyłam kurs Testera manualnego w szkole Coders Lab, która cieszy się
 bardzo dobrymi opiniami w branży. Podczas warsztatów miałam okazję poznać takie narzędzia
 jak Postman czy SoupUI, a także nauczyć się pisania planu testów, przypadków testowych oraz
 raportu z testów. Wykonywaliśmy również testy eksploracyjne przygotowanej przez szkołę
@@ -36,7 +36,7 @@ podstawowym stopniu znajomość narzędza Selenium IDE oraz Webdriver. Docelowo 
 się w obszarze automatyzacji testów, ale na poczzątku chciałabym nabrać doświadczenia w
 testowaniu manualnym.
 
-Moim zdaniem, mimo braku doświadczenia na stanowisku testera oprogramowania, moje
+###### Moim zdaniem, mimo braku doświadczenia na stanowisku testera oprogramowania, moje
 dotychczasowe doświadczenia zawodowe wpływają pozytywnie na moją kandydaturę. Nie mam
 wątpliwości, że szybko nauczę się wszystkiego co potrzeba, aby stać się świetnym testerem. W
 swoim zawodowym życiu wielokrotnie znajdowałam się w sytuacji, gdzie wręcz z dnia na dzień
@@ -46,5 +46,5 @@ być może czasami przesadne dążenie do perfekcji we wszystkim co robię, co m
 powinno przydać się w zawodzie testera. Jestem przekonana, że stanę się wartościowym
 członkiem zespołu.
 
-Mam nadzieję, że będę mogła spotkać się z Państwem osobiście, aby szerzej opowiedzieć o
+###### Mam nadzieję, że będę mogła spotkać się z Państwem osobiście, aby szerzej opowiedzieć o
 swoim doświadczeniu, wiedzy i umiejętnościach, a także odpowiedzieć na Państwa py
