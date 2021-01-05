@@ -5,4 +5,6 @@ permalink: /projects/
 ---
 
 
-Tu wrzuce sobie Jire
+Moja Jira: https://praglom.atlassian.net
+
+Jeśli chcesz zobaczyć moje projekty zaloguj się poniższymi danymi:
