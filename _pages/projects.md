@@ -11,7 +11,7 @@ Każda testowana aplikacja to osobny <b>sprint</b>.<br>
 W <b>filtrach</b> znajdziesz przygotowane na podstawie specyfikacji <b>Story, Test Case'y oraz zgłoszone przeze mnie bugi</b>.<br>
 Do przygotowania Test Case'ów używam darmowego dodatku <b>QAlity</b>. Podczas kursu w szkole <b>CodersLab</b> używałam także dodatku <b>TestFlo</b>, ale z racji tego, że jest on płatny, po przetestowaniu kilku darmowych appek zdecydowalam się właśnie na <b>QAlity</b>.<br><br>
 
-Moja Jira: https://praglom.atlassian.net
+<b>Moja Jira:</b> https://praglom.atlassian.net
 <br><br>
 Jeśli chcesz zobaczyć moje projekty zaloguj się poniższymi danymi:
 <br><br>
