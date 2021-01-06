@@ -9,7 +9,7 @@ W zakładce <b>Roadmap</b> znajdziesz wszystkie moje projekty wraz z zadaniami, 
 Wszystkie produkty mojej pracy są załączone w odpowiednich zadaniach. <br>
 Każda testowana aplikacja to osobny <b>sprint</b>.<br>
 W <b>filtrach</b> znajdziesz przygotowane na podstawie specyfikacji <b>Story, Test Case'y oraz zgłoszone przeze mnie bugi</b>.<br>
-Do przygotowania Test Case'ów używam darmowego dodatku <b>QAlity</b>. Podczas kursu w szkole <b>CodersLab</b> używałam także dodatku <b>TestFlo</b>, ale z racji tego, że jest on płatny, po przetestowaniu kilku darmowych appek zdecydowalam się właśnie na <b>QAlity</b>.<br><br>
+Do przygotowania Test Case'ów używam darmowego dodatku <b>QAlity</b>. Podczas kursu w szkole <b>CodersLab</b> używałam także dodatku <b>TestFlo</b>, ale z racji tego, że jest on płatny, po przetestowaniu kilku darmowych appek do zarządzania testami w Jira, zdecydowalam się właśnie na <b>QAlity</b>.<br><br>
 
 <b>Moja Jira:</b> https://praglom.atlassian.net
 <br><br>
