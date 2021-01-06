@@ -4,7 +4,7 @@ title: Moje projekty
 permalink: /projects/
 ---
 
-Moje projekty realizuję za pomocą narzędzia Jira. Poniżej znajdziesz dane, którymi możesz się do niej zalogować.
+Moje projekty realizuję za pomocą narzędzia Jira. Poniżej znajdziesz dane, którymi możesz się do niej zalogować. <br>
 W zakładce Roadmap znajdziesz wszystkie moje projekty wraz z zadaniami, które realizowałam, bądź będę realizować, aby osiągnąć wyznaczone sobie cele.
 Wszystkie produkty mojej pracy są załączone w odpowiednich zadaniach.
 Każda testowana aplikacja to osobny sprint.
