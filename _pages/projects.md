@@ -19,7 +19,6 @@ Jeśli chcesz zobaczyć moje projekty zaloguj się poniższymi danymi:
 ![Mrbuggy6](/assets/images/buggy6.jpg){: .align-right}{: #mrbuggy }
 <b>MR BUGGY 6</b>
 <p style="text-align:justify">Pierwszy mój projekt dotyczy aplikacji <b>MrBuggy 6</b>. Produkt nie posiada specyfikacji technicznej, ponieważ został stworzony z myślą o testach eksploracyjnych. W ramach projektu przygotowałam Plan Testów, następnie wykonałam testy eksploracyjne, których efektem są zgłoszone w Jira błędy. Podsumowanie znajdziesz w Raporcie podsumowującym.</p>
-<br>
 <hr />
 ![Mrbuggy7](/assets/images/buggy7.jpg){: .align-left}{: #mrbuggy }
  <b>MR BUGGY 7</b>
