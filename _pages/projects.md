@@ -13,7 +13,7 @@ Jeśli chcesz zobaczyć moje projekty zaloguj się poniższymi danymi:
 
 MR BUGGY
 
-![Mrbuggy6](/assets/images/buggy6.jpg){: .align-right}{:height="200px"}
+![Mrbuggy6](/assets/images/buggy6.jpg){: .align-right}{: #mrbuggy }
 Pierwszy mój projekt to wykonanie testów aplikacji MrBuggy6. 
 Tu bedzie jakiś tekst o tym i o tamtym. Generalnie testowanie ekspoloracyjne, trolololo
 
