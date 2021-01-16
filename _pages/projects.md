@@ -20,8 +20,8 @@ Jeśli chcesz zobaczyć moje projekty zaloguj się poniższymi danymi:
 <hr />
 ## ROADMAP
 <a name="roadmap"></a>
-W zakładce znajdziesz plan mojego działania. Znajdziesz tam już zrealizowane zadania, a także moje plany na najbliższe tygodnie. Część zadań zdefiniowałam na początlku moich prac, ale niektóre dodawane są na bieżąco w miarę postępu prac zgodnie z zachodzącymi potrzebami.
-<br>
+W tej zakładce znajdziesz plan mojego działania. Znajdziesz tam już zrealizowane zadania, a także moje plany na najbliższe tygodnie. Część zadań zdefiniowałam na początlku moich prac, ale niektóre dodawane są na bieżąco w miarę postępu prac zgodnie z zachodzącymi potrzebami. Statusy zadań są aktualizowane na bieżąco.
+<br><br>
 ![image-center](/assets/images/roadmap.png){: .align-center}
 <br>
 <hr />
