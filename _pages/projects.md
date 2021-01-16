@@ -20,7 +20,10 @@ Jeśli chcesz zobaczyć moje projekty zaloguj się poniższymi danymi:
 <hr />
 ## ROADMAP
 <a name="roadmap"></a>
-W zakładce znajdziesz plan mojego działania. Znajdziesz tam już zrealizowane zadania, a także moje plany na najbliższe tygodnie.
+W zakładce znajdziesz plan mojego działania. Znajdziesz tam już zrealizowane zadania, a także moje plany na najbliższe tygodnie. Część zadań zdefiniowałam na początlku moich prac, ale niektóre dodawane są na bieżąco w miarę postępu prac zgodnie z zachodzącymi potrzebami.
+<br>
+![image-center](/assets/images/roadmap.jpg){: .align-center}
+<br>
 <hr />
 ![Mrbuggy6](/assets/images/buggy6.jpg){: .align-right}{: #mrbuggy }
 <b>MR BUGGY 6</b>
