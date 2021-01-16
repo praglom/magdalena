@@ -3,7 +3,7 @@ layout: single
 title: Moje projekty
 permalink: /projects/
 ---
-##WSTĘP
+## WSTĘP
 Moje projekty realizuję za pomocą narzędzia Jira. Poniżej znajdziesz dane, którymi możesz się do niej zalogować. <br><br>
 W zakładce <b>Roadmap</b> znajdziesz wszystkie moje projekty wraz z zadaniami, które realizowałam, bądź będę realizować, aby osiągnąć wyznaczone sobie cele. <br>
 Wszystkie produkty mojej pracy są załączone w odpowiednich zadaniach. <br>
