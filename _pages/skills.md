@@ -4,7 +4,7 @@ title: Moje umiejętności
 permalink: /skills/
 ---
 ## KURSY
-<b> KURS TESTERA MANUALNEGO<b> w szkole <a href="https://coderslab.pl/" taregt="_blank"><b>Coders Lab</b></a> wrzesień - listopad 2020
+<b> KURS TESTERA MANUALNEGO<b> w szkole <a href="https://coderslab.pl/" target="_blank"><b>Coders Lab</b></a> wrzesień - listopad 2020
 <br>
 Zakres kursu:<br>
  MODUŁ 1
@@ -33,5 +33,5 @@ retrospektywa Agile
 <br>
 <hr />
 <b>UDEMY.COM</b><br>
-<a href="https://www.udemy.com/course/selenium-ide-podstawy/" taregt="_blank">Selenium IDE - Podstawy Automatyzacji + lokatory WebDriver</a><br><br>
- <a href="https://www.udemy.com/course/kurs-git-i-github-od-podstaw/" taregt="_blank">Wprowadzenie do Git i GitHub</a>
+<a href="https://www.udemy.com/course/selenium-ide-podstawy/" target="_blank">Selenium IDE - Podstawy Automatyzacji + lokatory WebDriver</a><br><br>
+ <a href="https://www.udemy.com/course/kurs-git-i-github-od-podstaw/" target="_blank">Wprowadzenie do Git i GitHub</a>
