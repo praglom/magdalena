@@ -27,3 +27,4 @@ Jeśli chcesz zobaczyć moje projekty zaloguj się poniższymi danymi:
  <p style="text-align:justify">Pierwszy mój projekt to wykonanie testów desktopowej aplikacji <b>MrBuggy 7</b>. GUI tej aplikacji jest bardzo podobne do MrBuggy 6, jednak różni się ona skomplikowanym diagramem stanów. System przewiduje trzy różne role użytkowników o zróżnicowanych funkcjonalnościach. Oprócz testów funkcjonalnych wykonałam testy <b>API</b>. 
 W tym wypadku efektami mojej pracy są: plan testów, przypadki testowe, zgłoszone błędy oraz raport podsumowujący.</p>
 
+<a name="do-gory"></a>
